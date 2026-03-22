@@ -20,7 +20,7 @@ y2 = 300
 x3 = 600
 y3 = 400
 
-FPS = 240
+FPS =  60
 
 mixer.init()
 # mixer.music.load('jungles.ogg')
